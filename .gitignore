@@ -1,0 +1,10 @@
+# Ignorar carpetas de configuración con datos reales
+config/
+data/
+db/
+
+# Ignorar archivos de sistema y claves
+.DS_Store
+*.key
+*.pem
+.env
