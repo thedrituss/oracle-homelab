@@ -81,7 +81,7 @@ Si usas otra distribución o proveedor, verifica tu ID con el comando id $USER.
 1. Clonar repositorio:
 
 ``` bash
-git clone [https://github.com/tu-usuario/oracle-homelab.git](https://github.com/tu-usuario/oracle-homelab.git)
+git clone [https://github.com/thedrituss/oracle-homelab.git](https://github.com/thedrituss/oracle-homelab.git)
 cd oracle-homelab
 ```
 
