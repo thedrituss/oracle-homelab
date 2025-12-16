@@ -13,7 +13,7 @@ El objetivo es autohospedar servicios personales manteniendo la privacidad, con 
 - **Host:** Oracle Cloud Infrastructure (VM.Standard.A1.Flex)
   - **CPU:** 4 OCPUs (ARM64 Ampere)
   - **RAM:** 24 GB
-  - **OS:** Ubuntu Server 22.04 LTS
+  - **OS:** Chanonical Ubuntu 24.04
 - **Orquestación:** Docker Compose & Portainer
 - **Red:** Acceso restringido vía WireGuard VPN
 
